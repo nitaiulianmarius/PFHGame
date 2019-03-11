@@ -1,0 +1,27 @@
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\bin\Debug\server.exe.config
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\bin\Debug\server.exe
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\bin\Debug\server.pdb
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\obj\Debug\server.csproj.GenerateResource.Cache
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\obj\Debug\server.exe
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\obj\Debug\server.pdb
+C:\Users\iuli\Desktop\Projects\Simple Chat\server\obj\Debug\server.serverForm.resources
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\bin\Debug\server.exe.config
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.exe
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.pdb
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\bin\Debug\server.exe
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\bin\Debug\server.pdb
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.serverForm.resources
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.csproj.GenerateResource.Cache
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\bin\Debug\server.exe.config
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\bin\Debug\server.exe
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\bin\Debug\server.pdb
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.csprojResolveAssemblyReference.cache
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.serverForm.resources
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.Properties.Resources.resources
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.csproj.GenerateResource.Cache
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.exe
+F:\Info\eu-jocuri\6) VSC# SFML (mp)\17) Piatra, foarfeca, hartie (MP)\server\obj\Debug\server.pdb

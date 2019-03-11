@@ -1,0 +1,18 @@
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\bin\Debug\client.exe.config
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\bin\Debug\client.exe
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\bin\Debug\client.pdb
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\obj\Debug\client.exe
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\obj\Debug\client.pdb
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\iuli\Desktop\Projects\Simple Chat\client\obj\Debug\client.clientForm.resources
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\bin\Debug\client.exe.config
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\bin\Debug\client.exe
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\bin\Debug\client.pdb
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\obj\Debug\client.clientForm.resources
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\obj\Debug\client.exe
+C:\Users\iuli\Desktop\Projects\Piatra, foarfeca, hartie (MP)\client\obj\Debug\client.pdb
